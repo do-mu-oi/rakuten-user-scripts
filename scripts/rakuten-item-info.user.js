@@ -1,9 +1,9 @@
 // ==UserScript==
-// @version      0.1.0
+// @version      0.1.1
 // @name         楽天商品ページ情報取得
 // @author       do-mu-oi
 // @license      MIT
-// @namespace    https://github.com/do-mu-oi/rakuten-rakuten-item-infos
+// @namespace    https://github.com/do-mu-oi/rakuten-user-scripts
 // @match        https://item.rakuten.co.jp/*
 // @grant        GM_addStyle
 // ==/UserScript==
